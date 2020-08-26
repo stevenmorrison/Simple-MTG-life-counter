@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple MTG Life Counter</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="StartingLife">20</string>
+    <string name="subtract_life">-</string>
+    <string name="add_life">+</string>
+    <string name="Player_One_Wins">Player One Wins</string>
+    <string name="Player_Two_Wins">Player Two Wins</string>
+</resources>
