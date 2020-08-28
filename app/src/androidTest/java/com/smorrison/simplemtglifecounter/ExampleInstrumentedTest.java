@@ -1,4 +1,4 @@
-package com.example.simplemtglifecounter;
+package com.smorrison.simplemtglifecounter;
 
 import android.content.Context;
 
